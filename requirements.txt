@@ -1,0 +1,12 @@
+# EcoAgent — Agentic AI Sustainability Advisor
+# 100% Free & Open-Source Dependencies (Zero Paid APIs Required)
+
+streamlit>=1.38.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.7.4
+pypdf>=4.0.0
+reportlab>=4.0.0
+plotly>=5.18.0
+pandas>=2.0.0
+requests>=2.31.0
+google-generativeai>=0.8.0
