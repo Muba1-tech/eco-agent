@@ -15,7 +15,7 @@ import socket
 # Default configurations
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3")
-DEFAULT_GEMINI_KEY = "AIzaSyC1lpl4L8-OFDfo1le7lEqFXRL5yhsfu_o"
+DEFAULT_GEMINI_KEY = "ur key"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", DEFAULT_GEMINI_KEY)
 
 _OLLAMA_AVAILABLE = None  # Cache status to avoid repetitive connection timeouts
